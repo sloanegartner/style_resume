@@ -1,0 +1,115 @@
+
+body {
+	font-family: 'EB Garamond', serif;
+	background-color: #ffffff;
+	margin: 0 10%;
+	background-image: url("corner.png"); 
+	background-repeat: no-repeat;
+	background-position: right;
+	background-attachment: fixed;
+}
+
+h1 {
+	font-family: 'EB Garamond', serif;
+	background-color: rgba(182, 172, 168);
+	text-align: center;
+	font-weight: bold;
+	text-transform: uppercase;
+	width: 100%;
+	padding: 30px 0 50px 10px;
+	margin-bottom: 0px;
+	margin-top: 6px;
+	color: #6b4984;
+	font-size: 3.2em;
+	word-spacing: .5em;
+	line-height: 100%;
+	letter-spacing: 4.5px;
+}
+
+h2 {
+	font-family: 'EB Garamond', serif;
+	font-weight: bold;
+	color: rgba(107, 73, 132);
+	font-size: 2.3em;
+	margin: 10px;
+	padding-bottom: 10px;
+	margin-top: 25px;
+	letter-spacing: 12px;
+	line-height: 35px;
+}
+
+h3 {
+	font-family: 'EB Garamond', serif;
+	color: rgba(133, 89, 136);
+	font-size: 1.5em;
+	margin: 5px;
+	margin-left: 12px;
+}
+
+h4 {
+	font-family: 'EB Garamond', serif;
+	color: rgba(182, 172, 168);
+	text-align: left;
+	margin: 10px;
+	text-indent: 40px;
+	text-decoration-line: overline;
+}
+
+h5 {
+	font-family: 'EB Garamond', serif;
+	color: rgba(182, 172, 168);
+	font-size: 1.3em;
+	text-align: right;
+	margin: 2.5px;
+	text-decoration-line: underline;
+}
+
+p  {
+  	font-family: 'EB Garamond', serif;
+	color: rgba(97, 103, 113);
+	text-align: left;
+	margin: 10px
+	font-size: .7em;
+}
+
+hr {
+	width: 80%;
+	margin-left: auto;
+	margin-right: auto;
+}
+
+ul {
+	color: rgba(97, 103, 113);
+}
+
+img.displayed {
+	float: left;
+	display: block;
+	width: 19%;
+	border: 3px solid lightGrey;
+	padding: 12px;
+	border-radius: 40%;
+}
+
+footer {
+	font-family: 'EB Garamond', serif;
+	color: rgba(97, 103, 113);
+	text-align: center;
+	margin: 10px;
+	margin-left: 10px
+}
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
